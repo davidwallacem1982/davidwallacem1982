@@ -25,7 +25,7 @@
   <img align="center" alt="David-SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="David-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="David-GITHUB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="right" alt="DAVID-GIT" src="//im5.ezgif.com/tmp/ezgif-5-531d553cde41.gif">
+  <img align="right" alt="DAVID-GIT" src="https://raw.githubusercontent.com/davidwallacem1982/davidwallacem1982/7a2f998b645edd8584113b3ffd738ef49cbf95f8/gif-maker.gif">
 </div>
   
   ##
@@ -34,7 +34,6 @@
  <a href = "mailto:david.mnemonic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/david-wallace-marques-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  <img src="//im5.ezgif.com/tmp/ezgif-5-531d553cde41.gif" style="width:250px;height:250px!important" alt="[resize output image]">
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
