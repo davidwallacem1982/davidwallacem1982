@@ -7,7 +7,7 @@
   <a href="https://https://github.com/davidwallacem1982">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidwallacem1982&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwallacem1982&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+</div><br>
 <div style="display: inline_block" align="center">
   <img align="center" alt="David-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="David-DOTNET" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="David-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   <img align="center" alt="David-JQUERY" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"> 
   <img align="center" alt="David-BOOTSTRAP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="David-NPM" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
@@ -29,9 +29,9 @@
   <img align="center" alt="David-SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="David-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="David-GITHUB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
- <p align="center">
-  <img align="center" alt="DAVID-GIT" src="https://raw.githubusercontent.com/davidwallacem1982/davidwallacem1982/master/1b965c3c3b5df0517bdca4e0d95beb15.gif">
 </div>
+ <p align="center"><br>
+  <img align="center" alt="DAVID-GIT" src="https://raw.githubusercontent.com/davidwallacem1982/davidwallacem1982/master/1b965c3c3b5df0517bdca4e0d95beb15.gif">
   
   ##
  
