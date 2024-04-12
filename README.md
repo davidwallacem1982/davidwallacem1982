@@ -3,12 +3,12 @@
 <a href="https://app.daily.dev/davidwallacem"><img src="https://api.daily.dev/devcards/v2/bMC9gyeV4Gzeu5iNZZKVY.png?type=default&r=r1h" width="400" alt="David Wallace's Dev Card"/></a></br> 
 ## Hello, Welcome to my GitHub my name is David
  
- <div>
+ <div align="center">
   <a href="https://https://github.com/davidwallacem1982">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidwallacem1982&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwallacem1982&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" alt="David-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="David-DOTNET" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="David-DOTNETCORE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="David-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="David-JQUERY" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"> 
   <img align="center" alt="David-BOOTSTRAP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="David-NPM" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
@@ -30,7 +30,7 @@
   <img align="center" alt="David-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="David-GITHUB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
  <p align="center">
-  <img align="center" alt="DAVID-GIT" src="https://raw.githubusercontent.com/davidwallacem1982/davidwallacem1982/7a2f998b645edd8584113b3ffd738ef49cbf95f8/gif-maker.gif">
+  <img align="center" alt="DAVID-GIT" src="https://raw.githubusercontent.com/davidwallacem1982/davidwallacem1982/master/1b965c3c3b5df0517bdca4e0d95beb15.gif">
 </div>
   
   ##
