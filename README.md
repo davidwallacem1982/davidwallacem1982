@@ -1,9 +1,8 @@
-<h2 align="center">A little bit of me for you. 🚀Study as much as you can so get far<br><br></h2>
+<h2 align="center">"Let's embark on an exciting journey together! 💫 Dedicate yourself to study with passion and determination, as every moment invested takes us closer to our dreams. I'm here to support you every step of the way. Let's fly high and achieve great achievements together! 🚀✨"<br><br></h2>
 <p align="center">
-<a href="https://app.daily.dev/davidwallacem"><img src="https://api.daily.dev/devcards/v2/bMC9gyeV4Gzeu5iNZZKVY.png?type=default&r=r1h" width="400" alt="David Wallace's Dev Card"/></a></br>
-<p align="center">
- 💎 💎 💎 </br>
-## Olá! Eu sou David Wallace Marques Ferreira
+<a href="https://app.daily.dev/davidwallacem"><img src="https://api.daily.dev/devcards/v2/bMC9gyeV4Gzeu5iNZZKVY.png?type=default&r=r1h" width="400" alt="David Wallace's Dev Card"/></a></br> 
+## Hello, Welcome to my GitHub my name is David
+ 
  <div>
   <a href="https://https://github.com/davidwallacem1982">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidwallacem1982&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -30,7 +29,8 @@
   <img align="center" alt="David-SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="David-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="David-GITHUB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="right" alt="DAVID-GIT" src="https://raw.githubusercontent.com/davidwallacem1982/davidwallacem1982/7a2f998b645edd8584113b3ffd738ef49cbf95f8/gif-maker.gif">
+ <p align="center">
+  <img align="center" alt="DAVID-GIT" src="https://raw.githubusercontent.com/davidwallacem1982/davidwallacem1982/7a2f998b645edd8584113b3ffd738ef49cbf95f8/gif-maker.gif">
 </div>
   
   ##
