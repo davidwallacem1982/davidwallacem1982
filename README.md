@@ -1,3 +1,8 @@
+<h2 align="center">A little bit of me for you. 🚀Study as much as you can so get far<br><br></h2>
+<p align="center">
+<a href="https://app.daily.dev/davidwallacem"><img src="https://api.daily.dev/devcards/v2/bMC9gyeV4Gzeu5iNZZKVY.png?type=default&r=r1h" width="400" alt="David Wallace's Dev Card"/></a></br>
+<p align="center">
+ 💎 💎 💎 </br>
 ## Olá! Eu sou David Wallace Marques Ferreira
  <div>
   <a href="https://https://github.com/davidwallacem1982">
@@ -38,3 +43,7 @@
   ![Snake animation](https://github.com/davidwallacem1982/davidwallacem1982/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/Henriqueiru/count.svg"/>
+</p>
