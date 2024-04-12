@@ -45,5 +45,5 @@
 </div>
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/Henriqueiru/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/davidwallacem1982/count.svg"/>
 </p>
