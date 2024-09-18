@@ -1,3 +1,4 @@
+<p align="center"><img height="100%" src="https://github.com/user-attachments/assets/3b75f8b3-504e-4afa-9beb-ded4f3aafb24"/>
 <h2 align="center">"Let's embark on an exciting journey together! 💫 Dedicate yourself to study with passion and determination, as every moment invested takes us closer to our dreams. I'm here to support you every step of the way. Let's fly high and achieve great achievements together! 🚀✨"<br><br></h2>
 <p align="center">
 <a href="https://app.daily.dev/davidwallacem"><img src="https://api.daily.dev/devcards/v2/bMC9gyeV4Gzeu5iNZZKVY.png?type=default&r=r1h" width="400" alt="David Wallace's Dev Card"/></a></br> 
