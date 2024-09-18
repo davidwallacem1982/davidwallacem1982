@@ -9,6 +9,11 @@
   <a href="https://https://github.com/davidwallacem1982">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidwallacem1982&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwallacem1982&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidwallacem1982&theme=midnight-purple&locale=pt_BR)](https://git.io/streak-stats)
+
 </div><br>
 <div style="display: inline_block" align="center">
   <img align="center" alt="David-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
